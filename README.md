@@ -1,2 +1,3 @@
 # sicp-exercises
-just some flex 
+
+My solutions of task from Structure and Interpretation of Computer Programs (in Scheme)
